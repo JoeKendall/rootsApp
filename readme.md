@@ -1,4 +1,4 @@
-Your Project Name
+Temp Project
 =================
 A brief summary of your project
 
